@@ -1,2 +1,2 @@
 # aux_metaregion
-Metadata for regional aggregates
+Metadata for regional aggregates. The information provided in this repor is differnet from the one created with function `pipaux::pip_regions()`. `aux_metaregions` include metadata for all regions like the lineup years for each. This information is provided manually and do not depend on anything but the discretion of the decision makers. In contrast, `pipaux::pip_regions()` is a subset of the information in `pip_country_list()`.  
